@@ -1,0 +1,15 @@
+F:\Вебмастер\apps\pvl-tools\pvl-radio\bin\Release\pvl-radio.exe.config
+F:\Вебмастер\apps\pvl-tools\pvl-radio\bin\Release\pvl-radio.exe.manifest
+F:\Вебмастер\apps\pvl-tools\pvl-radio\bin\Release\pvl-radio.application
+F:\Вебмастер\apps\pvl-tools\pvl-radio\bin\Release\pvl-radio.exe
+F:\Вебмастер\apps\pvl-tools\pvl-radio\obj\x86\Release\MainWindow.baml
+F:\Вебмастер\apps\pvl-tools\pvl-radio\obj\x86\Release\App.baml
+F:\Вебмастер\apps\pvl-tools\pvl-radio\obj\x86\Release\MainWindow.g.cs
+F:\Вебмастер\apps\pvl-tools\pvl-radio\obj\x86\Release\App.g.cs
+F:\Вебмастер\apps\pvl-tools\pvl-radio\obj\x86\Release\pvl-radio_MarkupCompile.cache
+F:\Вебмастер\apps\pvl-tools\pvl-radio\obj\x86\Release\pvl-radio.g.resources
+F:\Вебмастер\apps\pvl-tools\pvl-radio\obj\x86\Release\pvl_radio.Properties.Resources.resources
+F:\Вебмастер\apps\pvl-tools\pvl-radio\obj\x86\Release\pvl-radio.csproj.GenerateResource.Cache
+F:\Вебмастер\apps\pvl-tools\pvl-radio\obj\x86\Release\pvl-radio.exe.manifest
+F:\Вебмастер\apps\pvl-tools\pvl-radio\obj\x86\Release\pvl-radio.application
+F:\Вебмастер\apps\pvl-tools\pvl-radio\obj\x86\Release\pvl-radio.exe
