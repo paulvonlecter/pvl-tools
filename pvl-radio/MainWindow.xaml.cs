@@ -1,16 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 using System.Windows.Threading;
 using System.Net;
 using System.IO;
@@ -34,8 +27,10 @@ namespace pvl_radio {
         {
             this.InitializeComponent();
             // Insert code required on object creation below this point.
-            Thread metadataThread = new Thread(updateMeta);
-            metadataThread.IsBackground = true;
+            Thread metadataThread = new Thread(updateMeta)
+            {
+                IsBackground = true
+            };
             metadataThread.Start();
             timer.Interval = new TimeSpan(0, 0, 1);
             timer.Tick += new EventHandler(timer_Tick);
